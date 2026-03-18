@@ -1,6 +1,6 @@
 # Ex. No. 03   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 11/05/2025
+### DATE: 18/03/2026
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,8 @@
 
 ## Output:
 
-### NAME : **KABELAN G K**
-### REG NO : **212224110027**
+### NAME : Yogasri M
+### REG NO : 212224220124
 ## Rendered Output
 ![alt text](<DUSTER v2.png>)
 ## Fusion 360 
